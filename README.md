@@ -1,0 +1,2 @@
+# KG-MaC
+KG-MaC: Wonderful Fake Short Video News Detection
