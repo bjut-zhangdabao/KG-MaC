@@ -1,2 +1,3 @@
 # KG-MaC
 KG-MaC: Wonderful Fake Short Video News Detection, hahaha....
+![KG-MaC](./FakeSV/fig.png)
